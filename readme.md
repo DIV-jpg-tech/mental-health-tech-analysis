@@ -37,4 +37,4 @@ Mental health in the tech industry is influenced by both personal and workplace 
 ---
 
 ## 👩‍💻 Author
-Your Name
+Divyanshi Dhuliya
